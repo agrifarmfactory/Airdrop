@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Airdrop Contract",
+      "value": "0x7DEB387Ca25EC2074ee68268431E2b318133289e"
+    },
+    {
+      "id": 2,
+      "name": "Airdrop Fee in Wei",
+      "value": "1000000000000000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "AgriFarm Factory"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "The AGRI token empowers AgriFarm Factory, a decentralized marketplace for agriculture, enabling users to trade products, access services, and engage in peer-to-peer transactions."
+    },
+    {
+      "id": 5,
+      "name": "Token Contract",
+      "value": "0x0493CA1FeB41f2d71cE79Ad3676EE21563ac0dd6"
+    },
+    {
+      "id": 6,
+      "name": "Token Symbol",
+      "value": "AGRI"
+    },
+    {
+      "id": 7,
+      "name": "Airdrop Amount",
+      "value": "500"
+    },
+    {
+      "id": 8,
+      "name": "Airdrop Type: single or multi",
+      "value": "single"
+    },
+    {
+      "id": 9,
+      "name": "Owner Wallet",
+      "value": "0x14532fF3152a671d43dE41C319681f522C6208fe"
+    },
+    {
+      "id": 10,
+      "name": "Chain Name",
+      "value": "Binance Smart Chain"
+    },
+    {
+      "id": 11,
+      "name": "Chain ID",
+      "value": "56"
+    }
+
+  ]
